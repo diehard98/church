@@ -153,12 +153,12 @@ $blockquote-font-size:    ($font-size-base * 1.25) !default;
 
 // ADD YOUR CUSTOM CSS HERE  
 
-body > * {
+body > * { 
   background-size: cover;
   background-repeat: none;
   background-position: center ;
 }
-
+ 
 .footer {
   position: relative;
   height: 60px;
