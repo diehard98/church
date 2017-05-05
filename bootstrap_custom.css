@@ -6011,8 +6011,6 @@ body > * {
 
 .footer {
   position: relative;
-  margin-top: -60px;
-  /* negative value of footer height */
   height: 60px;
   width: 100%;
   clear: both;
